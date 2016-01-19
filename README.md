@@ -1,4 +1,6 @@
 # Bootstrap Switch
+
+[![Join the chat at https://gitter.im/yasuda22m/bootstrap-switch](https://badges.gitter.im/yasuda22m/bootstrap-switch.svg)](https://gitter.im/yasuda22m/bootstrap-switch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Dependency Status](https://david-dm.org/nostalgiaz/bootstrap-switch.svg?style=flat)](https://david-dm.org/nostalgiaz/bootstrap-switch)
 [![devDependency Status](https://david-dm.org/nostalgiaz/bootstrap-switch/dev-status.svg?style=flat)](https://david-dm.org/nostalgiaz/bootstrap-switch#info=devDependencies)
 [![NPM Version](http://img.shields.io/npm/v/bootstrap-switch.svg?style=flat)](https://www.npmjs.org/)
